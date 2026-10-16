@@ -1,0 +1,8 @@
+{
+  "app": "preview_attachment",
+  "package_dir": "preview_attachment",
+  "mode": "repository",
+  "gitflow": false,
+  "frontend_tests": false,
+  "skip_test_records": false
+}
